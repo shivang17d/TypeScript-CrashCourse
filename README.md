@@ -6,3 +6,7 @@
 - Avoid bugs in development
 - Increase development speed
 - Additional Features
+
+Commands
+- `npm install -g typescript`
+- ` tsc --help`
