@@ -11,6 +11,7 @@
 ### Commands
 - `npm install -g typescript`
 - ` tsc --help`
+- ` tsc app.js`
 - `node app.js`
 
 ### To avoid Typo Error we use TypeScript
