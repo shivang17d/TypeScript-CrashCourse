@@ -7,6 +7,6 @@
 - Increase development speed
 - Additional Features
 
-Commands
+### Commands
 - `npm install -g typescript`
 - ` tsc --help`
