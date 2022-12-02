@@ -2,6 +2,7 @@
 - Programming language by Microsoft.
 - TypeScript is JavaScript with syntax for types.
 - Superset of JavaScript
+- TypeScript is only use for development purpose inorder to increase user-experience, find bugs and increase speed and in production TypeScript is not run.
 
 ### Why TypeScript
 - Avoid bugs in development
