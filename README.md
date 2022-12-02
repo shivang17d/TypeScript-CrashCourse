@@ -10,3 +10,4 @@
 ### Commands
 - `npm install -g typescript`
 - ` tsc --help`
+- `node app.js`
