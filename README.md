@@ -5,3 +5,4 @@
 ### Why TypeScript
 - Avoid bugs in development
 - Increase development speed
+- Additional Features
